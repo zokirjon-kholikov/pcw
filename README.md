@@ -10,10 +10,10 @@ ko'rsatiladi, tanlangan mahsulot esa sahifa qayta yuklanganda ham saqlanib qolad
 Talab: **Node.js 18+**
 
 ```bash
-npm install      # install packages
-npm run dev      # run dev environment → http://localhost:5173
-npm run build    # production build (tsc type-check + vite build)
-npm run preview  # preview build version
+npm install or yarn install       # install packages
+npm run dev or yarn dev           # run dev environment → http://localhost:5173
+npm run build or yarn build       # production build (tsc type-check + vite build)
+npm run preview or yarn preview   # preview build version
 ```
 
 ---
