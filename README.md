@@ -55,7 +55,7 @@ src/
 
 ### 1. Nega Zustand (Redux Toolkit emas)?
 
-Topshiriqdan kleib chiqgan holatda Redux Toolkit **yoki** Zustand tanlash mumkin edi. Men **Zustand**ni
+Topshiriqdan kelib chiqgan holatda **Redux Toolkit** yoki **Zustand** tanlash mumkin edi. Men **Zustand**ni
 tanladim, chunki:
 
 - **Asosiy talab — refresh’da saqlanish.** Zustand’ning `persist` middleware’i
